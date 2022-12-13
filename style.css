@@ -1,0 +1,10 @@
+
+.main_text{
+    position: static;
+    padding-top: 95px;
+    height: 600px;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+  }
