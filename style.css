@@ -3,6 +3,10 @@
   font-weight: 700;
 }
 
+html {
+    scroll-behavior: smooth;
+    }
+    
 .main_text{
     position: static;
     padding-top: 85px;
@@ -132,3 +136,4 @@
         margin-bottom: 20px;
     }
 }
+
